@@ -3,10 +3,10 @@
 A multi-page web application built using **React & Next.js**, replicating four pages of the **Better.com** website.
 
 ## 📌 Live Demo
-🔗 [Deployed Link](https://better-com-clone-nine.vercel.app/) *(Replace with your deployed URL)*
+🔗 [Deployed Link](https://better-com-clone-nine.vercel.app/)
 
 ## 📂 Repository
-🔗 [GitHub Repository](https://github.com/Gaurav-Soni24/Better.com-Clone) *(Replace with your GitHub repo URL)*
+🔗 [GitHub Repository](https://github.com/Gaurav-Soni24/Better.com-Clone)
 
 ---
 
@@ -69,8 +69,8 @@ To deploy your own version:
 ---
 
 ## 💡 Author
-👨‍💻 **Gaurav Soni** *(Replace with your name)*
-🔗 [Github Profile](https://github.com/Gaurav-Soni24) *(Replace with your GitHub profile link)*
+👨‍💻 **Gaurav Soni** 
+🔗 [Github Profile](https://github.com/Gaurav-Soni24) 
 
 ---
 
