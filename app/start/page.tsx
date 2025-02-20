@@ -1,4 +1,5 @@
 import Link from "next/link"
+import Image from "next/image"
 import { Phone } from "lucide-react"
 
 export default function StartPage() {
@@ -25,11 +26,11 @@ export default function StartPage() {
         <div className="max-w-2xl mx-auto text-center">
           {/* Profile Image */}
           <div className="w-20 h-20 mx-auto mb-6 ">
-            <img className="rounded-full" src="https://media.better.com/components/preapproval/industry-parity-v2/betty1.jpg" alt="Profile" />
+            <Image width={100} height={100} className="rounded-full" src="https://media.better.com/components/preapproval/industry-parity-v2/betty1.jpg" alt="Profile" />
           </div>
 
           {/* Welcome Text */}
-          <h1 className="text-4xl font-medium text-gray-900 mb-2">Hi, I'm Betsy!</h1>
+          <h1 className="text-4xl font-medium text-gray-900 mb-2">It&apos;s a great day!</h1>
           <h2 className="text-3xl font-medium text-gray-900 mb-8">What can I help you with?</h2>
 
           {/* Action Buttons */}
