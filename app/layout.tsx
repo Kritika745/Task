@@ -20,7 +20,7 @@ export default function RootLayout({
     <html lang="en">
       <body>
         <nav>
-          <ul className="w-full flex justify-evenly p-7">
+          <ul className="w-full flex justify-evenly p-2 bg-black text-white font-bold">
             <li>
               <Link href="/">Home</Link>
             </li>

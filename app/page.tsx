@@ -1,7 +1,7 @@
 //homepage
-import HomeSection1 from "@/components/sections/HomeSection1";
-import HomeSection2 from "@/components/sections/HomeSection2";
-import HomeSection3 from "@/components/sections/HomeSection3";
+import Section1 from "@/components/sections/Section1";
+import Section2 from "@/components/sections/Section2";
+import Section3 from "@/components/sections/Section3";
 
 
 
@@ -11,9 +11,9 @@ export default function Home() {
     <>
     <div className="bg-accentBorderInverseSecondary full-hero">
 
-      <HomeSection1 />
-      <HomeSection2 />
-      <HomeSection3 />
+      <Section1 />
+      <Section2 />
+      <Section3 />
 
       <hr className="border-t border-strokeDivider my-0 pb-lg" />
     </div>

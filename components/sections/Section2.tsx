@@ -1,7 +1,7 @@
 import React from 'react'
 import Image from "next/image";
 
-const HomeSection2 = () => {
+const Section2 = () => {
   return (
 
     <section className="section m-auto flex max-w-screen-2xl flex-col justify-between gap-x-3xl p-base px-lg py-4xl md:px-10 md:flex-row-reverse xl:p-[120px]">
@@ -91,4 +91,4 @@ const HomeSection2 = () => {
 )
 }
 
-export default HomeSection2
+export default Section2

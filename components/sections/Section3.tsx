@@ -1,7 +1,7 @@
 import React from 'react'
 import Image from "next/image";
 
-const HomeSection3 = () => {
+const Section3 = () => {
   return (
     
     <section className="section w-full pb-base lg:pb-12">
@@ -229,4 +229,4 @@ const HomeSection3 = () => {
   )
 }
 
-export default HomeSection3
+export default Section3

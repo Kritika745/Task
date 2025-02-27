@@ -6,10 +6,10 @@ const AboutUs = () => {
     <div className="bg-accentBorderInverseSecondary full-hero">
       <section className="m-auto flex h-screen max-w-screen-xl items-center md:px-20">
         <div>
-          <h1 className="font-bold leading-heading m-0 p-0 tracking-normal w-auto text-xl md:text-2xl md:tracking-tight text-center text-textHighlight">
+          <h1 className="font-semibold leading-heading m-0 p-0 tracking-normal w-auto text-xl md:text-4xl md:tracking-tight text-center text-textHighlight">
             Our mission
           </h1>
-          <h2 className="font-bold text-textPrimary leading-heading m-0 p-0 w-auto text-2xl md:text-3xl tracking-tight md:tracking-tighter mt-8 text-center">
+          <h2 className="font-semibold text-textPrimary leading-heading m-0 p-0 w-auto text-2xl md:text-5xl tracking-tight md:tracking-tighter mt-8 text-center">
             We’re making homeownership simpler, faster — and most importantly,
             more accessible for all Americans.
           </h2>
